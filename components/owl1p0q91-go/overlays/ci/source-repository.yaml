@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: owl1p0q91-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/owl1p0q91-go
